@@ -1,0 +1,7 @@
+C:\Users\Jessica\source\repos\C for beginners\11- While Iteration Statement\11- While Iteration Statement\bin\Debug\11- While Iteration Statement.exe.config
+C:\Users\Jessica\source\repos\C for beginners\11- While Iteration Statement\11- While Iteration Statement\bin\Debug\11- While Iteration Statement.exe
+C:\Users\Jessica\source\repos\C for beginners\11- While Iteration Statement\11- While Iteration Statement\bin\Debug\11- While Iteration Statement.pdb
+C:\Users\Jessica\source\repos\C for beginners\11- While Iteration Statement\11- While Iteration Statement\obj\Debug\11- While Iteration Statement.csprojAssemblyReference.cache
+C:\Users\Jessica\source\repos\C for beginners\11- While Iteration Statement\11- While Iteration Statement\obj\Debug\11- While Iteration Statement.csproj.CoreCompileInputs.cache
+C:\Users\Jessica\source\repos\C for beginners\11- While Iteration Statement\11- While Iteration Statement\obj\Debug\11- While Iteration Statement.exe
+C:\Users\Jessica\source\repos\C for beginners\11- While Iteration Statement\11- While Iteration Statement\obj\Debug\11- While Iteration Statement.pdb
